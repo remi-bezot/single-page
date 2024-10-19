@@ -21,6 +21,7 @@ ul {
     grid-column-start: 1;
     grid-column-end: 5;
     background-color: rgba(90, 114, 134, 0.5);
+    padding-bottom: 1%;
 }
 
 h1{
